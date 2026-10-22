@@ -6,7 +6,7 @@
 4. Play the recording, review the transcript, and correct any mistakes.
 5. Open **Export** to save your text, captions, or a recording backup.
 
-The homepage also offers **Record audio**, **Import files**, **Transcripts**, and **Your notes** shortcuts. They take you to the matching workspace view after sign-in. Opening the recorder does not start microphone capture; start recording when you are ready.
+The homepage also offers **Record audio** and **Import a file**. They open the matching workspace action after sign-in. Opening the recorder does not start microphone capture; start recording when you are ready.
 
 Keep an internet connection available for sign-in and initial setup. You also need enough free space on your device. Imports do not require microphone permission.
 

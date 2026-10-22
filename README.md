@@ -16,7 +16,7 @@ Record, transcribe, and find the moment you need. Keep your audio, transcript, a
 - Export text, captions, or a recording backup.
 - Enable optional account saving to use saved work on another device.
 
-Choose **Open workspace**, **Record audio**, or **Import a file** on the homepage. Sign in with your DWL Account to open the workspace. Review transcripts for accuracy and keep a backup of important recordings.
+Choose **Open workspace**, **Record audio**, or **Import a file** on the homepage. Sign in with your Adenine account to open the workspace. Review transcripts for accuracy and keep a backup of important recordings.
 
 ## Guides and support
 

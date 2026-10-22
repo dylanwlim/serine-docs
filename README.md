@@ -12,7 +12,7 @@ Record, transcribe, and find the moment you need. Keep your audio, transcript, a
 
 - Record audio or import an audio or video file.
 - Listen, review the transcript, and add notes.
-- Organize recordings into folders.
+- Search recordings and transcripts.
 - Export text, captions, or a recording backup.
 - Enable optional account saving to use saved work on another device.
 

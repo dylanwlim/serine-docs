@@ -1,10 +1,10 @@
 # Quick start
 
 1. Open [Serine](https://serine.dylanwlim.com) in a current browser, choose **Open workspace**, and sign in with your Adenine account.
-2. Open your account menu, then **Settings > Help & troubleshooting**, choose **Test Serine on this device** to try the sample.
-3. Choose the **Record audio** or **Import audio** card in your workspace. Allow microphone access if you are recording.
+2. Choose **New recording** or **Import a file** in the sidebar. On a small screen, use **Open navigation** to show it.
+3. For a new recording, choose **Start recording** and allow microphone access. Choose **Stop recording** when you are done.
 4. Play the recording, review the transcript, and correct any mistakes.
-5. Open **Export** to save your text, captions, or a recording backup.
+5. Open the recording's three-dot **Recording actions** menu to export text or captions, choose **Download original**, or **Back up recording**.
 
 The homepage also offers **Record audio** and **Import a file**. They open the matching workspace action after sign-in. Opening the recorder does not start microphone capture; start recording when you are ready.
 

@@ -2,7 +2,7 @@
 
 ## Do I need an account?
 
-Yes. Sign in with your DWL Account to open the workspace.
+Yes. Sign in with your Adenine account to open the workspace.
 
 ## Does signing in upload my recordings?
 

@@ -5,7 +5,7 @@ Record, transcribe, and find the moment you need. Keep your audio, transcript, a
 **[Open Serine](https://serine.dylanwlim.com)** · [Quick start](setup.md) · [User guide](product-guide.md) · [Help](faq.md)
 
 <p align="center">
-  <a href="https://serine.dylanwlim.com"><img src="assets/homepage.png" alt="Serine with a recording, transcript, and notes" width="900"></a>
+  <a href="https://serine.dylanwlim.com"><img src="assets/homepage.png" alt="Serine start screen with recording and import controls" width="900"></a>
 </p>
 
 ## What you can do
@@ -16,7 +16,7 @@ Record, transcribe, and find the moment you need. Keep your audio, transcript, a
 - Export text, captions, or a recording backup.
 - Enable optional account saving to use saved work on another device.
 
-Choose **Open workspace**, or start with the homepage's recording, import, transcript, or notes shortcuts. Sign in with your DWL Account to open the workspace. The homepage recording is an illustration, not a saved project. Review transcripts for accuracy and keep a backup of important recordings.
+Choose **Open workspace**, **Record audio**, or **Import a file** on the homepage. Sign in with your DWL Account to open the workspace. Review transcripts for accuracy and keep a backup of important recordings.
 
 ## Guides and support
 

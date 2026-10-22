@@ -14,7 +14,7 @@ Open the original browser and check its saving status. The recording may still b
 
 ## Why did transcription stop or fail?
 
-Check the message shown for the file and your device. Some recordings are too long, too large, or unsupported. Preserve the original with **Export**, then try a supported device or a shorter copy of the file.
+Check the message shown for the file and your device. Some recordings are too long, too large, or unsupported. Open the recording's three-dot **Recording actions** menu and choose **Download original** or **Back up recording** to preserve it, then try a supported device or a shorter copy of the file.
 
 ## Can I recover audio from a transcript?
 

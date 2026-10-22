@@ -6,19 +6,19 @@ Choose **Open workspace**, **Record audio**, or **Import a file** on the homepag
 
 ## Record or import
 
-Choose **Record audio** or **Import audio** in the workspace action cards. You can also use **Record** or **Import** above your library. Review any file or device limits shown before starting. Microphone recording requires your permission.
+Choose **New recording** or **Import a file** in the sidebar. On a small screen, use **Open navigation** to show it. The empty library also offers **Record audio** and **Import a file**. Review any file or device limits shown before starting. Microphone recording requires your permission.
 
 Supported imports include MP3, MP4, M4A, WAV, MOV, OGG, WebM, FLAC, and AAC. Support also depends on the recording's length, size, format, and your device. Desktop Helper and YouTube or link import are unavailable; use a media file you have permission to process.
 
 ## Review and organize
 
-Listen alongside the transcript and correct words as needed. Add notes, use folders to organize recordings, and open the recording's Details or Export panel when needed. You can add speaker labels manually; automatic speaker identification is unavailable.
+Open a recording to listen alongside its transcript. Choose **Edit** on a passage to correct it, and open **Notes** to add or review notes. Automatic speaker identification is unavailable.
 
-Use the top navigation to switch between **Library**, **Transcripts**, and **Notes**. **Transcripts** finds recordings ready for review. **Notes** opens the notes panel for an available transcript; if you have none yet, record or import audio first. Open **Folders** to organize your library. Your account menu contains settings and account actions.
+Choose **Recordings** to return to the library, then use **Search recordings and transcripts** to find saved work. If your library already contains folders, use the **Folder** filter to view them. **Settings** is a separate sidebar button; your account menu contains **Manage account** and **Sign out**.
 
 Transcription can show draft text while processing. Wait for it to finish, then review the result. Live dictation is a draft. Review the finished transcript before quoting, sharing, or relying on it.
 
-If transcription cannot finish, keep the original recording. Use **Export** to download the source or create a backup, and try a supported device when convenient.
+If transcription cannot finish, keep the original recording. Open its three-dot **Recording actions** menu and choose **Download original** or **Back up recording**, then try a supported device when convenient.
 
 ## Appearance
 
@@ -48,6 +48,6 @@ Additional limits may apply. Follow the status shown in the app. Files that exce
 
 A recording backup includes audio or video only when the original media is still available. A text export cannot recover missing audio.
 
-Open and check your exported copy before deleting a recording, clearing browser data, or moving to a new device. On mobile, **Share backup** opens the export tools.
+Use the recording's three-dot **Recording actions** menu for transcript exports, **Download original**, and **Back up recording**. For the whole library, choose **Back up library**, or **Settings > Save backup**. Restore a backup with **Settings > Restore**. Open and check your exported copy before deleting a recording, clearing browser data, or moving to a new device.
 
 [Quick start](setup.md) · [Help and FAQ](faq.md) · [Privacy and your recordings](security-and-privacy.md)

@@ -22,7 +22,7 @@ If transcription cannot finish, keep the original recording. Use **Export** to d
 
 ## Appearance
 
-Transcribble follows your device's light or dark appearance by default. Your saved appearance choice also applies to the homepage.
+Serine follows your device's light or dark appearance by default. Your saved appearance choice also applies to the homepage.
 
 ## Save across devices
 
@@ -44,7 +44,7 @@ Additional limits may apply. Follow the status shown in the app. Files that exce
 | `.txt` or `.md` | Readable transcript text |
 | `.srt` or `.vtt` | Captions |
 | Original recording | A separate copy of your audio or video |
-| `.transcribble.tar` | A recording backup for later import |
+| `.serine.tar` | A recording backup for later import |
 
 A recording backup includes audio or video only when the original media is still available. A text export cannot recover missing audio.
 

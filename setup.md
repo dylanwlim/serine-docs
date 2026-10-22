@@ -1,7 +1,7 @@
 # Quick start
 
-1. Open [Transcribble](https://transcribble.dylanwlim.com) in a current browser, choose **Open workspace**, and sign in with your DWL Account.
-2. Open your account menu, then **Settings > Help & troubleshooting**, choose **Test Transcribble on this device** to try the sample.
+1. Open [Serine](https://serine.dylanwlim.com) in a current browser, choose **Open workspace**, and sign in with your DWL Account.
+2. Open your account menu, then **Settings > Help & troubleshooting**, choose **Test Serine on this device** to try the sample.
 3. Choose the **Record audio** or **Import audio** card in your workspace. Allow microphone access if you are recording.
 4. Play the recording, review the transcript, and correct any mistakes.
 5. Open **Export** to save your text, captions, or a recording backup.
@@ -12,4 +12,4 @@ Keep an internet connection available for sign-in and initial setup. You also ne
 
 To use account saving, read and accept its upload prompt in each browser, then check that saving has finished before switching devices.
 
-[User guide](product-guide.md) · [Help and FAQ](faq.md) · [Back to Transcribble](README.md)
+[User guide](product-guide.md) · [Help and FAQ](faq.md) · [Back to Serine](README.md)

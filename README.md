@@ -1,11 +1,11 @@
-# Transcribble
+# Serine
 
 Record, transcribe, and find the moment you need. Keep your audio, transcript, and notes together.
 
-**[Open Transcribble](https://transcribble.dylanwlim.com)** · [Quick start](setup.md) · [User guide](product-guide.md) · [Help](faq.md)
+**[Open Serine](https://serine.dylanwlim.com)** · [Quick start](setup.md) · [User guide](product-guide.md) · [Help](faq.md)
 
 <p align="center">
-  <a href="https://transcribble.dylanwlim.com"><img src="assets/homepage.png" alt="Transcribble with a recording, transcript, and notes" width="900"></a>
+  <a href="https://serine.dylanwlim.com"><img src="assets/homepage.png" alt="Serine with a recording, transcript, and notes" width="900"></a>
 </p>
 
 ## What you can do

@@ -18,4 +18,4 @@ Use recordings only when you have permission. Review transcripts before sharing,
 
 For help, email [dylan@wlim.work](mailto:dylan@wlim.work) with a short description and a non-sensitive example. Do not include confidential recordings, transcripts, passwords, or personal account information.
 
-[User guide](product-guide.md) · [Help and FAQ](faq.md) · [Back to Transcribble](README.md)
+[User guide](product-guide.md) · [Help and FAQ](faq.md) · [Back to Serine](README.md)

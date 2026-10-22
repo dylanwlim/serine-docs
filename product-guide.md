@@ -2,7 +2,7 @@
 
 ## Open the workspace
 
-Choose **Open workspace** on the homepage, or use its **Record audio**, **Import files**, **Transcripts**, and **Your notes** shortcuts. Sign in with your DWL Account when prompted. The homepage workspace preview is an illustration; it does not add a recording to your library.
+Choose **Open workspace**, **Record audio**, or **Import a file** on the homepage. Sign in with your DWL Account when prompted.
 
 ## Record or import
 

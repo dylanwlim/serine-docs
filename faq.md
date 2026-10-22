@@ -36,4 +36,4 @@ Treat it as a draft. Listen to the recording and review the finished transcript 
 
 Email [dylan@wlim.work](mailto:dylan@wlim.work) with your browser, the action you tried, and the error message. Use a short, non-sensitive example and remove personal information from screenshots. Keep confidential recordings, transcripts, and account details out of your report.
 
-[Quick start](setup.md) · [User guide](product-guide.md) · [Back to Transcribble](README.md)
+[Quick start](setup.md) · [User guide](product-guide.md) · [Back to Serine](README.md)

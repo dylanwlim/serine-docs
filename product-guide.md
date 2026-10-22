@@ -2,7 +2,7 @@
 
 ## Open the workspace
 
-Choose **Open workspace**, **Record audio**, or **Import a file** on the homepage. Sign in with your DWL Account when prompted.
+Choose **Open workspace**, **Record audio**, or **Import a file** on the homepage. Sign in with your Adenine account when prompted.
 
 ## Record or import
 

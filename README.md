@@ -28,3 +28,5 @@ Choose **Open workspace**, **Record audio**, or **Import a file** on the homepag
 | [Privacy and your recordings](security-and-privacy.md) | Choose what to save and protect your work. |
 
 Questions or feedback? [Contact Dylan](mailto:dylan@wlim.work).
+
+Need a fast website or Mac app? Free quote: https://dylanwlim.com/hire
